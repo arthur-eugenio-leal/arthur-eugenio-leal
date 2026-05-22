@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Leal</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on: 
 - 🌱 I’m currently learning **UI/UX**
 - 📫 How to reach me **arthurleal2009@hotmail.com**
 
